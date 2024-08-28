@@ -11,7 +11,7 @@ This repository makes it possible to use [google-signin-for-unity](https://githu
   ```json
   {
     "dependencies": {
-      "com.google-signin.unity": "https://github.com/unfilet/google-signin-unity.git"
+      "com.google-signin.unity": "https://github.com/nashwang0728/GoogleSignIn"
     }
   }
   ```
