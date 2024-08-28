@@ -1,0 +1,13 @@
+{
+  "version": "1.0.6",
+  "author": {
+    "name": "Google LLC",
+    "url": "https://github.com/googlesamples/google-signin-unity"
+  },
+  "displayName": "Google SignIn (Unity)",
+  "unity": "2019.1",
+  "dependencies": {},
+  "name": "com.google-signin.unity",
+  "description": "Google SignIn (Unity)",
+  "_fingerprint": "0c3bd2cdf12a7440039854ac9c79549e3aa0efe7"
+}
